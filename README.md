@@ -1,11 +1,22 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Dev+Chiniwala+%F0%9F%91%8B;AI+Engineer+%7C+UI%2FUX+Designer;Research+Analyst+%7C+GenAI+Explorer;Building+systems+that+give+real+value." alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamdev0707&label=Profile+Views&color=6E40C9&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/iamdev0707?label=Followers&style=flat&color=6E40C9" alt="followers" />
-</p>
+<!-- ANIMATED SVG BANNER -->
+<img src="https://raw.githubusercontent.com/iamdev0707/iamdev0707/main/banner.svg" alt="Dev Chiniwala Banner" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+GenAI+Explorer+%F0%9F%A4%96;UI%2FUX+Designer+%7C+Research+Analyst+%F0%9F%93%8A;Building+systems+that+give+real+value+%F0%9F%9A%80;LLMs+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+VLMs+%C2%B7+Frontends" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=iamdev0707&label=Profile+Views&color=A855F7&style=flat" />
+<img src="https://img.shields.io/github/followers/iamdev0707?label=Followers&style=flat&color=A855F7" />
+
+</div>
 
 ---
 
@@ -87,7 +98,6 @@ npx devcard0707
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -129,5 +139,5 @@ npx devcard0707
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" />
 </p>
