@@ -346,26 +346,10 @@ npx devcard0707
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevChiniwala&theme=radical&utcOffset=5.5" width="47%" alt="Productive Time"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevChiniwala&theme=radical" width="47%" alt="Repos Per Language"/>
 
+<br/><br/>
 
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  🐍 SNAKE ANIMATION (Optional - Requires GitHub Actions)   ║
-  ║                                                              ║
-  ║  To enable the snake contribution animation:                 ║
-  ║  1. Push the .github/workflows/snake.yml to your repo       ║
-  ║  2. Go to repo Settings → Actions → General                 ║
-  ║     → Workflow permissions → "Read and write permissions"    ║
-  ║  3. Go to Actions tab → "Generate Snake Animation"          ║
-  ║     → "Run workflow"                                         ║
-  ║  4. Once it runs, uncomment the block below and              ║
-  ║     remove the profile-summary-cards above                   ║
-  ╚══════════════════════════════════════════════════════════════╝
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevChiniwala/DevChiniwala/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevChiniwala/DevChiniwala/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DevChiniwala/DevChiniwala/output/github-snake-dark.svg" width="100%" />
-</picture>
-
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/DevChiniwala/DevChiniwala/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
