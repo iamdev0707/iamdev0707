@@ -346,7 +346,7 @@ npx devcard0707
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevChiniwala&theme=radical&utcOffset=5.5" width="47%" alt="Productive Time"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevChiniwala&theme=radical" width="47%" alt="Repos Per Language"/>
 
-<!--
+
   ╔══════════════════════════════════════════════════════════════╗
   ║  🐍 SNAKE ANIMATION (Optional - Requires GitHub Actions)   ║
   ║                                                              ║
@@ -365,7 +365,7 @@ npx devcard0707
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevChiniwala/DevChiniwala/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DevChiniwala/DevChiniwala/output/github-snake-dark.svg" width="100%" />
 </picture>
--->
+
 
 </div>
 
